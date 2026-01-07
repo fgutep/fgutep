@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgutep/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe@fgutep.xyz)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fgutep.xyz)
-[![Blog](https://img.shields.io/badge/BLOG-a3e635?style=for-the-badge&logo=hashnode&logoColor=black)](https://projects.fgutep.xyz)
+[![CV](https://img.shields.io/badge/PORTFOLIO-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fgutep.xyz)
+[![Projects](https://img.shields.io/badge/BLOG-a3e635?style=for-the-badge&logo=hashnode&logoColor=black)](https://projects.fgutep.xyz)
 
 </div>
 
@@ -107,7 +107,7 @@ SELECT project_name, description, tech_stack FROM projects WHERE featured = true
 
 <div align="center">
 
-### 💡 Building intelligent systems that bridge hardware and software
+### Building the body, coding the soul
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fgutep&color=14b8a6&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/fgutep?style=flat-square&color=a3e635&labelColor=0D1117)
