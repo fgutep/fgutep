@@ -41,7 +41,9 @@ CREATE TABLE felipe_gutierrez (
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/fgutep?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=America%2FBogota&config.twemoji=true&config.gemoji=true&config.octicon=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&bg_color=0D1117&color=14b8a6&title_color=a3e635&text_color=ffffff&border_color=0D1117" alt="Felipe's Metrics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgutep&theme=tokyonight" alt="3D Contribs" />
+
+<img src="https://github.readme-activity-graph.vercel.app/graph?username=fgutep&theme=react-dark&hide_border=true&bg_color=0D1117&color=14b8a6&line=a3e635&point=ffffff&area=true&hide_title=true" />
 
 </div>
 
