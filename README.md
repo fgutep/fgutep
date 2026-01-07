@@ -41,15 +41,8 @@ CREATE TABLE felipe_gutierrez (
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgutep&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a3e635&icon_color=14b8a6&text_color=ffffff&rank_icon=github&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgutep&layout=compact&hide_border=true&bg_color=0D1117&title_color=a3e635&text_color=ffffff&langs_count=8&custom_title=Stack%20Distribution"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fgutep&theme=tokyonight&hide_border=true&background=0D1117&stroke=14b8a6&ring=a3e635&fire=fcd34d&currStreakLabel=ffffff)](https://git.io/streak-stats)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgutep&theme=tokyonight)](https://github.com/fgutep)
+[![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fgutep&theme=tokyonight&utcOffset=-5)](https://github.com/fgutep)
 
 </div>
 
