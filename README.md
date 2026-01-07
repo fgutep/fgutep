@@ -41,9 +41,9 @@ CREATE TABLE felipe_gutierrez (
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fgutep&theme=tokyonight" alt="3D Contribs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgutep&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a3e635&icon_color=14b8a6&text_color=ffffff&rank_icon=github&include_all_commits=true"/>
 
-<img src="https://github.readme-activity-graph.vercel.app/graph?username=fgutep&theme=react-dark&hide_border=true&bg_color=0D1117&color=14b8a6&line=a3e635&point=ffffff&area=true&hide_title=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgutep&layout=compact&hide_border=true&bg_color=0D1117&title_color=a3e635&text_color=ffffff&langs_count=8&custom_title=Stack%20Distribution"/>
 
 </div>
 
@@ -99,9 +99,9 @@ SELECT project_name, description, tech_stack FROM projects WHERE featured = true
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🤖 [**SWARM MK1**](https://github.com/RASuniandes/SWARM) | Autonomous warehouse robots system | `ROS 2` `Python` `C++` `Computer Vision` |
-| 🖨️ [**MetalHunk 3D**](https://github.com/fgutep/MetalFunk) | Open-source FDM 3D printer | `Marlin` `Arduino` `KiCad` `Fusion 360` |
-| ⏰ [**Klok**](https://github.com/fgutep/Klok) | Cyber-punk alarm clock with custom PCB | `Arduino Nano` `KiCad` `C++` |
+|  [**SWARM MK1**](https://github.com/RASuniandes/SWARM) | Autonomous warehouse robots system | `ROS 2` `Python` `C++` `Computer Vision` |
+|  [**MetalHunk 3D**](https://github.com/fgutep/MetalFunk) | Open-source FDM 3D printer | `Marlin` `Arduino` `KiCad` `Fusion 360` |
+|  [**Klok**](https://github.com/fgutep/Klok) | Cyber-punk alarm clock with custom PCB | `Arduino Nano` `KiCad` `C++` |
 
 ---
 
