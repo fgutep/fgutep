@@ -107,15 +107,6 @@ SELECT project_name, description, tech_stack FROM projects WHERE featured = true
 
 [![Felipe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fgutep&theme=react-dark&hide_border=true&bg_color=0D1117&color=14b8a6&line=a3e635&point=fcd34d)](https://github.com/fgutep)
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fgutep&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=14b8a6&icon_color=a3e635&text_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
