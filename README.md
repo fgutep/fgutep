@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgutep/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe@fgutep.xyz)
-[![CV](https://img.shields.io/badge/PORTFOLIO-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fgutep.xyz)
-[![Projects](https://img.shields.io/badge/BLOG-a3e635?style=for-the-badge&logo=hashnode&logoColor=black)](https://projects.fgutep.xyz)
+[![CV / Profile](https://img.shields.io/badge/CV_/_PROFILE-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fgutep.xyz)
+[![Projects](https://img.shields.io/badge/PROJECTS-a3e635?style=for-the-badge&logo=hashnode&logoColor=black)](https://projects.fgutep.xyz)
 
 </div>
 
