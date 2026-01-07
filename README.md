@@ -93,7 +93,7 @@ SELECT project_name, description, tech_stack FROM projects WHERE featured = true
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 |  [**SWARM MK1**](https://github.com/RASuniandes/SWARM) | Autonomous warehouse robots system | `ROS 2` `Python` `C++` `Computer Vision` |
-|  [**MetalHunk 3D**](https://github.com/fgutep/MetalFunk) | Open-source FDM 3D printer | `Marlin` `Arduino` `KiCad` `Fusion 360` |
+|  [**MetalHunk 3D**](https://github.com/fgutep/MetalFunk) | Open-source FDM 3D printer | `Marlin` `SKR` `CAD Design` `Fusion 360` |
 |  [**Klok**](https://github.com/fgutep/Klok) | Cyber-punk alarm clock with custom PCB | `Arduino Nano` `KiCad` `C++` |
 
 ---
