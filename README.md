@@ -1,16 +1,129 @@
-## Hi there 👋
+# 👋 SELECT * FROM developers WHERE name = 'Felipe Gutiérrez';
 
-<!--
-**fgutep/fgutep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fgutep/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe@fgutep.xyz)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-14b8a6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fgutep.xyz)
+[![Blog](https://img.shields.io/badge/BLOG-a3e635?style=for-the-badge&logo=hashnode&logoColor=black)](https://projects.fgutep.xyz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```sql
+CREATE TABLE felipe_gutierrez (
+    role                VARCHAR(100) PRIMARY KEY DEFAULT 'Robotics Engineer & Backend Dev',
+    location            VARCHAR(50) DEFAULT 'Bogotá, Colombia 🇨🇴',
+    university          VARCHAR(100) DEFAULT 'Universidad de los Andes',
+    degrees             TEXT[] DEFAULT ARRAY['Electronic Engineering', 'Systems Engineering'],
+    current_position    VARCHAR(100) DEFAULT 'President @ RAS Uniandes',
+    team_size           INTEGER DEFAULT 30,
+    
+    -- Core Stack
+    robotics_stack      TEXT[] DEFAULT ARRAY['ROS 2', 'ESP32', 'Computer Vision', 'SLAM'],
+    backend_stack       TEXT[] DEFAULT ARRAY['Python', 'C++', 'Java', 'Spring Boot', 'Node.js'],
+    electronics_stack   TEXT[] DEFAULT ARRAY['KiCad', 'Altium', 'PCB Design', 'Arduino'],
+    
+    -- Current Work
+    main_project        VARCHAR(100) DEFAULT 'SWARM MK1 - Autonomous Warehouse Robots',
+    project_url         VARCHAR(200) DEFAULT 'github.com/RASuniandes/SWARM',
+    
+    -- Contact
+    email               VARCHAR(100) DEFAULT 'felipe@fgutep.xyz',
+    website             VARCHAR(100) DEFAULT 'fgutep.xyz'
+);
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgutep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&icon_color=a3e635&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgutep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14b8a6&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fgutep&theme=tokyonight&hide_border=true&background=0D1117&stroke=14b8a6&ring=a3e635&fire=fcd34d&currStreakLabel=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+```sql
+SELECT * FROM skills ORDER BY proficiency DESC;
+```
+
+### 🤖 Robotics & Embedded
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+### 💻 Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### ⚡ Electronics & CAD
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=flat-square&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6B00?style=flat-square&logo=autodesk&logoColor=white)
+
+### 🛠️ DevOps & Databases
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+```sql
+SELECT project_name, description, tech_stack FROM projects WHERE featured = true;
+```
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🤖 [**SWARM MK1**](https://github.com/RASuniandes/SWARM) | Autonomous warehouse robots system | `ROS 2` `Python` `C++` `Computer Vision` |
+| 🖨️ [**MetalHunk 3D**](https://github.com/fgutep/MetalFunk) | Open-source FDM 3D printer | `Marlin` `Arduino` `KiCad` `Fusion 360` |
+| ⏰ [**Klok**](https://github.com/fgutep/Klok) | Cyber-punk alarm clock with custom PCB | `Arduino Nano` `KiCad` `C++` |
+
+---
+
+## 📈 Contribution Graph
+
+[![Felipe's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fgutep&theme=react-dark&hide_border=true&bg_color=0D1117&color=14b8a6&line=a3e635&point=fcd34d)](https://github.com/fgutep)
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fgutep&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=14b8a6&icon_color=a3e635&text_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building intelligent systems that bridge hardware and software
+
+![Profile Views](https://komarev.com/ghpvc/?username=fgutep&color=14b8a6&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/fgutep?style=flat-square&color=a3e635&labelColor=0D1117)
+
+</div>
